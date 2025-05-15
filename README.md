@@ -1,5 +1,5 @@
 
-# wk-Auto-update
+# BPB-Worker-Panel-Auto-update
 
 自动同步 BPB-Worker-Panel 项目的最新（包括预发行版） worker.js 文件。
 
